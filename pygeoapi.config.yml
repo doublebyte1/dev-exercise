@@ -26,7 +26,7 @@ logging:
 
 metadata:
     identification:
-        title: Diving into pygeoapi default instance
+        title: OGC Training pygeoapi default instance
         description: pygeoapi provides an API to geospatial data
         keywords:
             - geospatial
